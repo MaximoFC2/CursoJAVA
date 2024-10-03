@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="07a9e813-3567-481c-bfaa-5dec1ccb4124" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/totit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoUdemy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actividades/EstanqueGasolina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actividades/MiNombre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actividades/OrdenarMayorMenor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actividades/ProgramaManejoDeNombres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actividades/Tarea2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Concatenacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConsolaYWindows/SNumericosWindowsDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConsolaYWindows/UdemyClassScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConversionDeTipo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LoginArreglos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operadores/OperadorAsignacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operadores/OperadorInstanceOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operadores/OperadorTernario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operadores/OperadoresAritmetico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operadores/OperadoresIncrementalesDecremetales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operadores/OperadoresLogicos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operadores/OperadoresLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operadores/OperadoresRelacionales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operadores/OperadoresUnarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operadores/PresedenciaOperadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Primitivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimitivosBoolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrJAVA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringsEjemplos/EjemploStringExtensionArchivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringsEjemplos/EjemploStringInmutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringsEjemplos/EjemploStringMetodos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringsEjemplos/EjemploStringMetodosArreglos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringsEjemplos/EjemploStringTestRendimientoConcat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringsEjemplos/EjemploStringValidation.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/EjemploStringMetodos.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2lLjadQzZpoXHi1LvD7euSgJzU8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Concatenacion.executor": "Run",
+    "Application.ConversionDeTipo.executor": "Run",
+    "Application.EjemploStringExtensionArchivo.executor": "Run",
+    "Application.EjemploStringMetodos.executor": "Run",
+    "Application.EjemploStringTestRendimientoConcat.executor": "Run",
+    "Application.EstanqueGasolina.executor": "Run",
+    "Application.HolaMundo.executor": "Run",
+    "Application.LoginArreglos.executor": "Run",
+    "Application.MiNombre.executor": "Run",
+    "Application.OperadorAritmetico.executor": "Run",
+    "Application.OperadorAsignacion.executor": "Run",
+    "Application.OperadorInstanceOf.executor": "Run",
+    "Application.OperadorTernario.executor": "Run",
+    "Application.OperadoresIncrementalesDecremetales.executor": "Run",
+    "Application.OperadoresLogicos.executor": "Run",
+    "Application.OperadoresLogin.executor": "Run",
+    "Application.OperadoresUnarios.executor": "Run",
+    "Application.OrdenarMayorMenor.executor": "Run",
+    "Application.PresedenciaOperadores.executor": "Debug",
+    "Application.PrimitivosBoolean.executor": "Run",
+    "Application.ProgramaManejoDeNombres.executor": "Run",
+    "Application.SNumericosWindowsDialog.executor": "Run",
+    "Application.SistemasNumericos.executor": "Run",
+    "Application.StrJAVA.executor": "Run",
+    "Application.Tarea2.executor": "Run",
+    "Application.UdemyClassScanner.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/totit/OneDrive/Escritorio/hola2/CursoUdemy/src/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.OperadorAsignacion">
+    <configuration name="EstanqueGasolina" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Actividades.EstanqueGasolina" />
+      <module name="CursoUdemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Actividades.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperadorAsignacion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operadores.OperadorAsignacion" />
+      <module name="CursoUdemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Operadores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperadorInstanceOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operadores.OperadorInstanceOf" />
+      <module name="CursoUdemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Operadores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrdenarMayorMenor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Actividades.OrdenarMayorMenor" />
+      <module name="CursoUdemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Actividades.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PresedenciaOperadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operadores.PresedenciaOperadores" />
+      <module name="CursoUdemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Operadores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OperadorAsignacion" />
+        <item itemvalue="Application.EstanqueGasolina" />
+        <item itemvalue="Application.OrdenarMayorMenor" />
+        <item itemvalue="Application.PresedenciaOperadores" />
+        <item itemvalue="Application.OperadorInstanceOf" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07a9e813-3567-481c-bfaa-5dec1ccb4124" name="Changes" comment="" />
+      <created>1724966319000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724966319000</updated>
+      <workItem from="1724966320315" duration="1816000" />
+      <workItem from="1725027118842" duration="3514000" />
+      <workItem from="1725310924947" duration="48028000" />
+      <workItem from="1727205108787" duration="2636000" />
+      <workItem from="1727218493467" duration="5094000" />
+      <workItem from="1727899020540" duration="377000" />
+      <workItem from="1727962805724" duration="547000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
